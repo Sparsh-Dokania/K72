@@ -7,14 +7,14 @@ import { ScrollTrigger } from 'gsap/all'
 const Projects = () => {
 
   const projects = [{
-    image1: 'https://k72.ca/uploads/caseStudies/PJC/Thumbnails/PJC_SiteK72_Thumbnail_1280x960-1280x960.jpg',
-    image2: 'https://k72.ca/uploads/caseStudies/WIDESCAPE/WS---K72.ca---Thumbnail-1280x960.jpg'
+    image1: 'public/images/Project image 1.jpg',
+    image2: 'public/images/Project img 2.jpg'
   }, {
-    image1: 'https://k72.ca/uploads/caseStudies/OKA/OKA_thumbnail-1280x960.jpg',
-    image2: 'https://k72.ca/uploads/caseStudies/Opto/thumbnailimage_opto-1280x960.jpg'
+    image1: 'public/images/Project img 3.jpg',
+    image2: 'public/images/Project img 4.jpg'
   }, {
-    image1: 'https://k72.ca/uploads/caseStudies/LAMAJEURE_-_Son_sur_mesure/chalaxeur-thumbnail_img-1280x960.jpg',
-    image2: 'https://k72.ca/uploads/caseStudies/SHELTON/thumbnailimage_shelton-1280x960.jpg'
+    image1: 'public/images/Project img 5.jpg',
+    image2: 'public/images/Project img 6.jpg'
   }]
 
 

@@ -108,7 +108,7 @@ const FullScreenNav = () => {
             <div className="lg:h-44 h-28 lg:w-1 w-0.5 right-0 rotate-45 origin-top absolute bg-[#D3FD50]"></div>
           </div>
         </div>
-        <div className=" py-36">
+        <div className=" py-3">
           <div className="link origin-top relative border-t-1 border-white">
             <h1 className="font-[font2] text-5xl lg:text-[8vw] text-center lg:leading-[0.8] lg:pt-10 pt-3 uppercase">
               Projets
@@ -116,7 +116,7 @@ const FullScreenNav = () => {
             <div className="moveLink absolute text-black flex top-0 bg-[#D3FD50]">
               <div className="moveX flex items-center">
                 <h2 className="whitespace-nowrap font-[font2] lg:text-[8vw] text-5xl  text-center lg:leading-[0.8] lg:pt-10 pt-4 uppercase">
-                  Pour Tout voir
+                  See All
                 </h2>
                 <img
                   className="lg:h-36 h-14 rounded-full shrink-0 lg:w-96 w-32 object-cover"
@@ -124,7 +124,7 @@ const FullScreenNav = () => {
                   alt=""
                 />
                 <h2 className="whitespace-nowrap font-[font2] lg:text-[8vw] text-5xl  text-center lg:leading-[0.8] lg:pt-10 pt-4 uppercase">
-                  Pour Tout voir
+                  See All
                 </h2>
                 <img
                   className="lg:h-36 h-14 rounded-full shrink-0 lg:w-96 w-32 object-cover"
@@ -134,7 +134,7 @@ const FullScreenNav = () => {
               </div>
               <div className="moveX flex items-center">
                 <h2 className="whitespace-nowrap font-[font2] lg:text-[8vw] text-5xl  text-center lg:leading-[0.8] lg:pt-10 pt-4 uppercase">
-                  Pour Tout voir
+                  See All
                 </h2>
                 <img
                   className="lg:h-36 h-14 rounded-full shrink-0 lg:w-96 w-32 object-cover"
@@ -142,7 +142,7 @@ const FullScreenNav = () => {
                   alt=""
                 />
                 <h2 className="whitespace-nowrap font-[font2] lg:text-[8vw] text-5xl  text-center lg:leading-[0.8] lg:pt-10 pt-4 uppercase">
-                  Pour Tout voir
+                  See All
                 </h2>
                 <img
                   className="lg:h-36 h-14 rounded-full shrink-0 lg:w-96 w-32 object-cover"
@@ -159,7 +159,7 @@ const FullScreenNav = () => {
             <div className="moveLink absolute text-black flex top-0 bg-[#D3FD50]">
               <div className="moveX flex items-center">
                 <h2 className="whitespace-nowrap font-[font2] lg:text-[8vw] text-5xl  text-center lg:leading-[0.8] lg:pt-10 pt-4 uppercase">
-                  Pour Tout voir
+                  To know Everything
                 </h2>
                 <img
                   className="lg:h-36 h-14 rounded-full shrink-0 lg:w-96 w-32 object-cover"
@@ -167,7 +167,7 @@ const FullScreenNav = () => {
                   alt=""
                 />
                 <h2 className="whitespace-nowrap font-[font2] lg:text-[8vw] text-5xl  text-center lg:leading-[0.8] lg:pt-10 pt-4 uppercase">
-                  Pour Tout voir
+                  To know Everything
                 </h2>
                 <img
                   className="lg:h-36 h-14 rounded-full shrink-0 lg:w-96 w-32 object-cover"
@@ -177,7 +177,7 @@ const FullScreenNav = () => {
               </div>
               <div className="moveX flex items-center">
                 <h2 className="whitespace-nowrap font-[font2] lg:text-[8vw] text-5xl  text-center lg:leading-[0.8] lg:pt-10 pt-4 uppercase">
-                  Pour Tout voir
+                  To know Everything
                 </h2>
                 <img
                   className="lg:h-36 h-14 rounded-full shrink-0 lg:w-96 w-32 object-cover"
@@ -185,7 +185,7 @@ const FullScreenNav = () => {
                   alt=""
                 />
                 <h2 className="whitespace-nowrap font-[font2] lg:text-[8vw] text-5xl  text-center lg:leading-[0.8] lg:pt-10 pt-4 uppercase">
-                  Pour Tout voir
+                  To know Everything
                 </h2>
                 <img
                   className="lg:h-36 h-14 rounded-full shrink-0 lg:w-96 w-32 object-cover"
@@ -202,7 +202,7 @@ const FullScreenNav = () => {
             <div className="moveLink absolute text-black flex top-0 bg-[#D3FD50]">
               <div className="moveX flex items-center">
                 <h2 className="whitespace-nowrap font-[font2] lg:text-[8vw] text-5xl  text-center lg:leading-[0.8] lg:pt-10 pt-4 uppercase">
-                  Pour Tout voir
+                  To Send a Fax
                 </h2>
                 <img
                   className="lg:h-36 h-14 rounded-full shrink-0 lg:w-96 w-32 object-cover"
@@ -210,7 +210,7 @@ const FullScreenNav = () => {
                   alt=""
                 />
                 <h2 className="whitespace-nowrap font-[font2] lg:text-[8vw] text-5xl  text-center lg:leading-[0.8] lg:pt-10 pt-4 uppercase">
-                  Pour Tout voir
+                  To know Everything
                 </h2>
                 <img
                   className="lg:h-36 h-14 rounded-full shrink-0 lg:w-96 w-32 object-cover"
@@ -220,7 +220,7 @@ const FullScreenNav = () => {
               </div>
               <div className="moveX flex items-center">
                 <h2 className="whitespace-nowrap font-[font2] lg:text-[8vw] text-5xl  text-center lg:leading-[0.8] lg:pt-10 pt-4 uppercase">
-                  Pour Tout voir
+                  To know Everything
                 </h2>
                 <img
                   className="lg:h-36 h-14 rounded-full shrink-0 lg:w-96 w-32 object-cover"
@@ -228,7 +228,7 @@ const FullScreenNav = () => {
                   alt=""
                 />
                 <h2 className="whitespace-nowrap font-[font2] lg:text-[8vw] text-5xl  text-center lg:leading-[0.8] lg:pt-10 pt-4 uppercase">
-                  Pour Tout voir
+                  To know Everything
                 </h2>
                 <img
                   className="lg:h-36 h-14 rounded-full shrink-0 lg:w-96 w-32 object-cover"
@@ -245,7 +245,7 @@ const FullScreenNav = () => {
             <div className="moveLink absolute text-black flex top-0 bg-[#D3FD50]">
               <div className="moveX flex items-center">
                 <h2 className="whitespace-nowrap font-[font2] lg:text-[8vw] text-5xl  text-center lg:leading-[0.8] lg:pt-10 pt-4 uppercase">
-                  Pour Tout voir
+                  Read the Articles
                 </h2>
                 <img
                   className="lg:h-36 h-14 rounded-full shrink-0 lg:w-96 w-32 object-cover"
@@ -253,7 +253,7 @@ const FullScreenNav = () => {
                   alt=""
                 />
                 <h2 className="whitespace-nowrap font-[font2] lg:text-[8vw] text-5xl  text-center lg:leading-[0.8] lg:pt-10 pt-4 uppercase">
-                  Pour Tout voir
+                  Read the Articles
                 </h2>
                 <img
                   className="lg:h-36 h-14 rounded-full shrink-0 lg:w-96 w-32 object-cover"
@@ -263,7 +263,7 @@ const FullScreenNav = () => {
               </div>
               <div className="moveX flex items-center">
                 <h2 className="whitespace-nowrap font-[font2] lg:text-[8vw] text-5xl  text-center lg:leading-[0.8] lg:pt-10 pt-4 uppercase">
-                  Pour Tout voir
+                  See All Projects
                 </h2>
                 <img
                   className="lg:h-36 h-14 rounded-full shrink-0 lg:w-96 w-32 object-cover"
@@ -271,7 +271,7 @@ const FullScreenNav = () => {
                   alt=""
                 />
                 <h2 className="whitespace-nowrap font-[font2] lg:text-[8vw] text-5xl  text-center lg:leading-[0.8] lg:pt-10 pt-4 uppercase">
-                  Pour Tout voir
+                  See All Projects
                 </h2>
                 <img
                   className="lg:h-36 h-14 rounded-full shrink-0 lg:w-96 w-32 object-cover"

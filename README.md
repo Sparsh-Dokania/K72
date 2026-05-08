@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ K72
+# ⚡ K72 
 
 ### Interactive GSAP-Powered Frontend Experience
 
@@ -15,7 +15,7 @@
 
 <br/>
 
-**A motion-first frontend experiment exploring interaction, sequencing, timing, and visual rhythm through GSAP-powered experiences.**
+**A motion first frontend experiment exploring interaction, sequencing, timing, and visual rhythm through GSAP-powered experiences.**
 
 </div>
 
